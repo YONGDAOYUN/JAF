@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# JAF是什么？
+JAF是一款用PHP开发的RESTful API研发框架，小巧快速，是我们公司的第一个开源项目。
+# 主要解决什么？
 
-You can use the [editor on GitHub](https://github.com/YONGDAOYUN/JAF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 使用说明
+## 下载安装
+## 系统配置
+## 主要功能
+## 注意事项
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 我们是谁
 
-### Markdown
+# 使用授权
+遵守BSD开源协议。
+# 特别感谢
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YONGDAOYUN/JAF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 联系我们
